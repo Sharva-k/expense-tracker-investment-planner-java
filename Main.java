@@ -1,5 +1,7 @@
 
 public class Main {
+    // Temporary code to test logical working
+
     public static void main(String[] args){
         double sipResult = InvestmentPlanner.sip(5000,10,12);
         double lumpsumResult = InvestmentPlanner.lumpsum(100000,5, 10);

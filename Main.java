@@ -5,6 +5,6 @@ public class Main {
         double lumpsumResult = InvestmentPlanner.lumpsum(100000,5, 10);
 
         System.out.println("SIP Amount: ₹ " + (int)sipResult);
-        System.out.println("Lump Sum Amount: ₹" + (int)lumpsumResult);
+        System.out.println("Lump Sum Amount: ₹ " + (int)lumpsumResult);
     }
 }

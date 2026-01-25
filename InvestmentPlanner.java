@@ -1,5 +1,5 @@
 public class InvestmentPlanner {
-
+// Only calculates sip rate for now
     static double sip(double monthly,int years, double rate){
         int months = years *12;
         double r = rate/(12*100);

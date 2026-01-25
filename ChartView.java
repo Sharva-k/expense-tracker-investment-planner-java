@@ -1,4 +1,4 @@
-// Use JavaFX to create visual mathematical representation of resulting data
+// Planning to use JavaFX to show data mathematically
 
 public class ChartView {
     
